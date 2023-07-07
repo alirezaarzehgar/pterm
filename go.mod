@@ -1,5 +1,7 @@
 module github.com/pterm/pterm
 
+replace github.com/pterm/pterm => github.com/alirezaarzehgar/pterm v1.0.0
+
 go 1.18
 
 require (
